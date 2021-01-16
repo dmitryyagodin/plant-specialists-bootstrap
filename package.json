@@ -1,0 +1,19 @@
+{
+  "name": "flower-specialists-bootstrap-version",
+  "version": "1.0.0",
+  "description": "This directory is for the bootstrap-based version of the flower-specialists project",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Yagodin",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "lite-server": "^2.6.1",
+    "popper.js": "^1.12.9"
+  }
+}
